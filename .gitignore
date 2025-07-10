@@ -4,4 +4,3 @@ dist
 .mastra
 *.db
 *.db-*
-.env.development
